@@ -1,0 +1,2 @@
+(executable (name MyLibTest) (public_name MyLibTest.exe)
+    (libraries try-rely.test.lib)) 

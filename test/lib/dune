@@ -1,0 +1,2 @@
+(library (name Lib) (public_name try-rely.test.lib)
+    (libraries try-rely.library rely.lib) (ocamlopt_flags -linkall -g)) 
